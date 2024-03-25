@@ -20,6 +20,9 @@
 4. after registering a user you should expect to see credentials.db, login the application to generate a JWT Token that will be stored in localStorage and will remember the user.
 5. Please Refresh the page after login to get the confirmation prompt that the user is still logged in, and  to render the logout button for further login attempts.
 
+### Sample Users
+1. user: salah , pass: 1234
+2. user:test , pass: qwerty
 
 This program is tested for both Windows and Unix Systems.
 
